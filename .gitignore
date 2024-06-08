@@ -122,3 +122,32 @@ credentials.txt
 
 # módulos node
 node_modules/
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/lib64
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/pyvenv.cfg
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/activate
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/activate.csh
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/activate.fish
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/Activate.ps1
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/pip
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/pip3
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/pip3.10
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/python
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/python3
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/python3.10
+puc_pos/lib64
+puc_pos/pyvenv.cfg
+puc_pos/bin/activate
+puc_pos/bin/activate.csh
+puc_pos/bin/activate.fish
+puc_pos/bin/Activate.ps1
+puc_pos/bin/flask
+puc_pos/bin/nosetests
+puc_pos/bin/nosetests-3.4
+puc_pos/bin/pip
+puc_pos/bin/pip3
+puc_pos/bin/pip3.10
+puc_pos/bin/python
+puc_pos/bin/python3
+puc_pos/bin/python3.10
+puc_pos/include/site/python3.10/greenlet/greenlet.h
+puc_pos/man/man1/nosetests.1
