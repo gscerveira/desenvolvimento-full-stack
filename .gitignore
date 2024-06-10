@@ -151,3 +151,6 @@ puc_pos/bin/python3
 puc_pos/bin/python3.10
 puc_pos/include/site/python3.10/greenlet/greenlet.h
 puc_pos/man/man1/nosetests.1
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/flask
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/bin/nose2
+desenvolvimento-full-stack-basico/aula-3/meu_app_api/env_aula3_api/include/site/python3.10/greenlet/greenlet.h
